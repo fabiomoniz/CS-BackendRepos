@@ -1,0 +1,14 @@
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.Infrastruture.Data\bin\Debug\netcoreapp2.1\WebShopCage.core.dll
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.Infrastruture.Data\bin\Debug\netcoreapp2.1\WebShopCage.core.entity.dll
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.Infrastruture.Data\obj\Debug\netcoreapp2.1\WebShopCage.Infrastruture.Data.csprojAssemblyReference.cache
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.Infrastruture.Data\obj\Debug\netcoreapp2.1\WebShopCage.Infrastruture.Data.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.Infrastruture.Data\obj\Debug\netcoreapp2.1\WebShopCage.Infrastruture.Data.AssemblyInfoInputs.cache
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.Infrastruture.Data\obj\Debug\netcoreapp2.1\WebShopCage.Infrastruture.Data.AssemblyInfo.cs
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.Infrastruture.Data\bin\Debug\netcoreapp2.1\WebShopCage.Infrastruture.Data.deps.json
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.Infrastruture.Data\bin\Debug\netcoreapp2.1\WebShopCage.Infrastruture.Data.dll
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.Infrastruture.Data\bin\Debug\netcoreapp2.1\WebShopCage.Infrastruture.Data.pdb
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.Infrastruture.Data\bin\Debug\netcoreapp2.1\WebShopCage.core.entity.pdb
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.Infrastruture.Data\bin\Debug\netcoreapp2.1\WebShopCage.core.pdb
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.Infrastruture.Data\obj\Debug\netcoreapp2.1\WebShopCage.Infrastruture.Data.csproj.CopyComplete
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.Infrastruture.Data\obj\Debug\netcoreapp2.1\WebShopCage.Infrastruture.Data.dll
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.Infrastruture.Data\obj\Debug\netcoreapp2.1\WebShopCage.Infrastruture.Data.pdb

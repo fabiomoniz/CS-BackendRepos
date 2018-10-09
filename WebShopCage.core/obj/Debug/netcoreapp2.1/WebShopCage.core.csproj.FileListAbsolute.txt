@@ -1,0 +1,12 @@
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.core\bin\Debug\netcoreapp2.1\WebShopCage.core.deps.json
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.core\bin\Debug\netcoreapp2.1\WebShopCage.core.dll
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.core\bin\Debug\netcoreapp2.1\WebShopCage.core.pdb
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.core\bin\Debug\netcoreapp2.1\WebShopCage.core.entity.dll
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.core\bin\Debug\netcoreapp2.1\WebShopCage.core.entity.pdb
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.core\obj\Debug\netcoreapp2.1\WebShopCage.core.csprojAssemblyReference.cache
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.core\obj\Debug\netcoreapp2.1\WebShopCage.core.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.core\obj\Debug\netcoreapp2.1\WebShopCage.core.AssemblyInfoInputs.cache
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.core\obj\Debug\netcoreapp2.1\WebShopCage.core.AssemblyInfo.cs
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.core\obj\Debug\netcoreapp2.1\WebShopCage.core.csproj.CopyComplete
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.core\obj\Debug\netcoreapp2.1\WebShopCage.core.dll
+C:\Users\Fábio\source\repos\WebShopCage\WebShopCage.core\obj\Debug\netcoreapp2.1\WebShopCage.core.pdb

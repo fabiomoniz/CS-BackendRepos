@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "WebShopCage.core/1.0.0": {
+        "dependencies": {
+          "WebShopCage.core.entity": "1.0.0"
+        },
+        "runtime": {
+          "WebShopCage.core.dll": {}
+        }
+      },
+      "WebShopCage.core.entity/1.0.0": {
+        "runtime": {
+          "WebShopCage.core.entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebShopCage.core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebShopCage.core.entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

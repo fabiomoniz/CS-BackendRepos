@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using WebShopCage.Infrastruture.Data;
 
 namespace WebShop
 {
@@ -14,7 +16,16 @@ namespace WebShop
     {
         public static void Main(string[] args)
         {
-            CreateWebHostBuilder(args).Build().Run();
+            var host = CreateWebHostBuilder(args).Build();
+
+            using (IServiceScope scope = host.Services.CreateScope())
+            {
+                var ctx = scope.ServiceProvider.GetService<DBContext>();
+                Seed.DbSeed(ctx);
+            }
+
+
+                
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
