@@ -11,4 +11,8 @@
     <ProjectReference Include="..\CustomerApp.Core\CustomerApp.Core.csproj" />
     <ProjectReference Include="..\CustomerApp.Core.Entity\CustomerApp.Core.Entity.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.0-preview2-35157" />
+  </ItemGroup>
 </Project>
