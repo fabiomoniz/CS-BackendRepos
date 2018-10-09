@@ -4,9 +4,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CustomerApp.Infrastructure.Static.Data
 {
-    public class CustomerAppContext : DbContext
+    public class DBContext : DbContext
     {
-        public CustomerAppContext(DbContextOptions<CustomerAppContext> opt)
+        public DBContext(DbContextOptions<DBContext> opt)
             : base(opt) {}
         
 

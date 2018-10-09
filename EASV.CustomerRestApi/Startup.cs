@@ -2,9 +2,7 @@
 using CustomerApp.Core.ApplicationService;
 using CustomerApp.Core.ApplicationService.Services;
 using CustomerApp.Core.DomainService;
-using CustomerApp.Core.Entity;
-using CustomerApp.Infrastructure.Data;
-using CustomerApp.Infrastructure.Data.Repositories;
+using CustomerApp.Infrastructure.Static.Data;
 using CustomerApp.Infrastructure.Static.Data.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -47,7 +45,7 @@ namespace EASV.CustomerRestApi
 
             if (_env.IsDevelopment())
             {
-                services.AddDbContext<DbContext>(
+                services.AddDbContext<DBContext>(
                     opt => opt.UseSqlite("Data Source=customerApp.db"));
             }
             else if (_env.IsProduction())
@@ -72,7 +70,7 @@ namespace EASV.CustomerRestApi
             services.AddCors(options =>
             {
                 options.AddPolicy("AllowSpecificOrigin",
-                    builder => builder.WithOrigins("http://localhost:63342").AllowAnyHeader()
+                    builder => builder.WithOrigins("http://localhost:44356").AllowAnyHeader()
                         .AllowAnyMethod());
             });
         }
@@ -86,14 +84,13 @@ namespace EASV.CustomerRestApi
                 using (var scope = app.ApplicationServices.CreateScope())
                 {
                     var ctx = scope.ServiceProvider.GetService<DBContext>();
-                    DBInitializer.SeedDB(ctx);
                 }
             }
             else
             {
                 using (var scope = app.ApplicationServices.CreateScope())
                 {
-                    var ctx = scope.ServiceProvider.GetService<CustomerAppContext>();
+                    var ctx = scope.ServiceProvider.GetService<DBContext>();
                     ctx.Database.EnsureCreated();
                 }
                 app.UseHsts();
