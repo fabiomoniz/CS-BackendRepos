@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebShopCage.core.entity\WebShopCage.core.entity.csproj" />
+    <ProjectReference Include="..\WebShopCage.core\WebShopCage.core.csproj" />
+    <ProjectReference Include="..\WebShopCage.Infrastruture.Data\WebShopCage.Infrastruture.Data.csproj" />
+  </ItemGroup>
+
+</Project>
