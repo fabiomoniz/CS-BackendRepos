@@ -11937,43 +11937,41 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Fábio\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/kasper/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fábio\\source\\repos\\WebShopCage\\WebShop\\WebShop.csproj",
+      "projectUniqueName": "/Users/kasper/Documents/Dokumenter/CS-BackendRepos/WebShop/WebShop.csproj",
       "projectName": "WebShop",
-      "projectPath": "C:\\Users\\Fábio\\source\\repos\\WebShopCage\\WebShop\\WebShop.csproj",
-      "packagesPath": "C:\\Users\\Fábio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fábio\\source\\repos\\WebShopCage\\WebShop\\obj\\",
+      "projectPath": "/Users/kasper/Documents/Dokumenter/CS-BackendRepos/WebShop/WebShop.csproj",
+      "packagesPath": "/Users/kasper/.nuget/packages/",
+      "outputPath": "/Users/kasper/Documents/Dokumenter/CS-BackendRepos/WebShop/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Fábio\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/kasper/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Fábio\\source\\repos\\WebShopCage\\WebShopCage.core.entity\\WebShopCage.core.entity.csproj": {
-              "projectPath": "C:\\Users\\Fábio\\source\\repos\\WebShopCage\\WebShopCage.core.entity\\WebShopCage.core.entity.csproj"
+            "/Users/kasper/Documents/Dokumenter/CS-BackendRepos/WebShopCage.core.entity/WebShopCage.core.entity.csproj": {
+              "projectPath": "/Users/kasper/Documents/Dokumenter/CS-BackendRepos/WebShopCage.core.entity/WebShopCage.core.entity.csproj"
             },
-            "C:\\Users\\Fábio\\source\\repos\\WebShopCage\\WebShopCage.core\\WebShopCage.core.csproj": {
-              "projectPath": "C:\\Users\\Fábio\\source\\repos\\WebShopCage\\WebShopCage.core\\WebShopCage.core.csproj"
+            "/Users/kasper/Documents/Dokumenter/CS-BackendRepos/WebShopCage.core/WebShopCage.core.csproj": {
+              "projectPath": "/Users/kasper/Documents/Dokumenter/CS-BackendRepos/WebShopCage.core/WebShopCage.core.csproj"
             },
-            "C:\\Users\\Fábio\\source\\repos\\WebShopCage\\WebShopCage.Infrastruture.Data\\WebShopCage.Infrastruture.Data.csproj": {
-              "projectPath": "C:\\Users\\Fábio\\source\\repos\\WebShopCage\\WebShopCage.Infrastruture.Data\\WebShopCage.Infrastruture.Data.csproj"
+            "/Users/kasper/Documents/Dokumenter/CS-BackendRepos/WebShopCage.Infrastruture.Data/WebShopCage.Infrastruture.Data.csproj": {
+              "projectPath": "/Users/kasper/Documents/Dokumenter/CS-BackendRepos/WebShopCage.Infrastruture.Data/WebShopCage.Infrastruture.Data.csproj"
             }
           }
         }
@@ -12002,6 +12000,7 @@
             "version": "[2.2.0-preview2-35157, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

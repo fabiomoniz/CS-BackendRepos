@@ -1,0 +1,66 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/kasper/Documents/Dokumenter/CS-BackendRepos/WebShopCage.Infrastruture.Data/WebShopCage.Infrastruture.Data.csproj",
+    "projectName": "WebShopCage.Infrastruture.Data",
+    "projectPath": "/Users/kasper/Documents/Dokumenter/CS-BackendRepos/WebShopCage.Infrastruture.Data/WebShopCage.Infrastruture.Data.csproj",
+    "outputPath": "/Users/kasper/Documents/Dokumenter/CS-BackendRepos/WebShopCage.Infrastruture.Data/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "/Users/kasper/Documents/Dokumenter/CS-BackendRepos/WebShopCage.core.entity/WebShopCage.core.entity.csproj": {
+            "projectPath": "/Users/kasper/Documents/Dokumenter/CS-BackendRepos/WebShopCage.core.entity/WebShopCage.core.entity.csproj"
+          },
+          "/Users/kasper/Documents/Dokumenter/CS-BackendRepos/WebShopCage.core/WebShopCage.core.csproj": {
+            "projectPath": "/Users/kasper/Documents/Dokumenter/CS-BackendRepos/WebShopCage.core/WebShopCage.core.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.EntityFrameworkCore.SqlServer": {
+          "target": "Package",
+          "version": "[2.2.0-preview2-35157, )"
+        },
+        "Microsoft.EntityFrameworkCore.Sqlite": {
+          "target": "Package",
+          "version": "[2.2.0-preview2-35157, )"
+        },
+        "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+          "target": "Package",
+          "version": "[2.2.0-preview2-35157, )"
+        },
+        "Microsoft.EntityFrameworkCore.Sqlite.Design": {
+          "target": "Package",
+          "version": "[2.0.0-preview1-final, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

@@ -24,7 +24,7 @@ namespace WebShop
                 Seed.DbSeed(ctx);
             }
 
-
+            host.Run();
                 
         }
 
