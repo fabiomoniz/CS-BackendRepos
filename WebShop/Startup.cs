@@ -35,6 +35,7 @@ namespace WebShop
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddDbContext<DBContext>(opt => opt.UseSqlite("Data Source=webshop.db"));
+            
 
             services.AddScoped<IProductRepo, ProductRepo>();
             services.AddScoped<IProductService, ProductService>();
@@ -55,6 +56,8 @@ namespace WebShop
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                
+                
             }
             else
             {

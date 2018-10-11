@@ -27,6 +27,7 @@ namespace WebShopCage.Infrastruture.Data
             {
                 ctx.Order.Add(new Orders()
                 {
+                   // DateTime DeliveryDate = "11/11/18 23:59:59 ",
                     
                 });
             }

@@ -23,7 +23,7 @@ namespace WebShop
                 var ctx = scope.ServiceProvider.GetService<DBContext>();
                 Seed.DbSeed(ctx);
             }
-
+            
             host.Run();
                 
         }

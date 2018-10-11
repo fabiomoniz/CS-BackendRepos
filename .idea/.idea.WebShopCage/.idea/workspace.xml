@@ -2,77 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="498b2904-bfa7-4a80-87d7-38edde3e1c0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebShopCage/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebShopCage/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebShopCage/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebShop/Controllers/OrderController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebShop/Controllers/ProductController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebShopCage/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebShopCage/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebShopCage/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebShopCage/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebShop/Controllers/ValuesController.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShop/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebShop/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebShop/WebShop.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/WebShop.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShop/bin/Debug/netcoreapp2.1/WebShop.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/bin/Debug/netcoreapp2.1/WebShop.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShop/bin/Debug/netcoreapp2.1/WebShop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/bin/Debug/netcoreapp2.1/WebShop.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShop/bin/Debug/netcoreapp2.1/WebShop.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/bin/Debug/netcoreapp2.1/WebShop.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShop/bin/Debug/netcoreapp2.1/WebShop.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/bin/Debug/netcoreapp2.1/WebShop.runtimeconfig.dev.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShop/bin/Debug/netcoreapp2.1/WebShopCage.Infrastruture.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/bin/Debug/netcoreapp2.1/WebShopCage.Infrastruture.Data.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShop/bin/Debug/netcoreapp2.1/WebShopCage.Infrastruture.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/bin/Debug/netcoreapp2.1/WebShopCage.Infrastruture.Data.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShop/bin/Debug/netcoreapp2.1/WebShopCage.core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/bin/Debug/netcoreapp2.1/WebShopCage.core.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShop/bin/Debug/netcoreapp2.1/WebShopCage.core.entity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/bin/Debug/netcoreapp2.1/WebShopCage.core.entity.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShop/bin/Debug/netcoreapp2.1/WebShopCage.core.entity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/bin/Debug/netcoreapp2.1/WebShopCage.core.entity.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShop/bin/Debug/netcoreapp2.1/WebShopCage.core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/bin/Debug/netcoreapp2.1/WebShopCage.core.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShop/obj/Debug/netcoreapp2.1/WebShop.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/obj/Debug/netcoreapp2.1/WebShop.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebShop/obj/Debug/netcoreapp2.1/WebShop.RazorAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/obj/Debug/netcoreapp2.1/WebShop.RazorAssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShop/obj/Debug/netcoreapp2.1/WebShop.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/obj/Debug/netcoreapp2.1/WebShop.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShop/obj/Debug/netcoreapp2.1/WebShop.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/obj/Debug/netcoreapp2.1/WebShop.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShop/obj/Debug/netcoreapp2.1/WebShop.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/obj/Debug/netcoreapp2.1/WebShop.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShop/obj/Debug/netcoreapp2.1/WebShop.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/obj/Debug/netcoreapp2.1/WebShop.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShop/obj/Debug/netcoreapp2.1/WebShop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/obj/Debug/netcoreapp2.1/WebShop.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShop/obj/Debug/netcoreapp2.1/WebShop.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/obj/Debug/netcoreapp2.1/WebShop.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShop/obj/WebShop.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/obj/WebShop.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShop/obj/WebShop.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/obj/WebShop.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShop/obj/WebShop.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/obj/WebShop.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShop/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebShop/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebShop/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/Seed.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/Seed.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/WebShopCage.Infrastruture.Data.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/WebShopCage.Infrastruture.Data.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/bin/Debug/netcoreapp2.1/WebShopCage.Infrastruture.Data.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/bin/Debug/netcoreapp2.1/WebShopCage.Infrastruture.Data.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/bin/Debug/netcoreapp2.1/WebShopCage.Infrastruture.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/bin/Debug/netcoreapp2.1/WebShopCage.Infrastruture.Data.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/bin/Debug/netcoreapp2.1/WebShopCage.Infrastruture.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/bin/Debug/netcoreapp2.1/WebShopCage.Infrastruture.Data.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/bin/Debug/netcoreapp2.1/WebShopCage.core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/bin/Debug/netcoreapp2.1/WebShopCage.core.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/bin/Debug/netcoreapp2.1/WebShopCage.core.entity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/bin/Debug/netcoreapp2.1/WebShopCage.core.entity.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/bin/Debug/netcoreapp2.1/WebShopCage.core.entity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/bin/Debug/netcoreapp2.1/WebShopCage.core.entity.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/bin/Debug/netcoreapp2.1/WebShopCage.core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/bin/Debug/netcoreapp2.1/WebShopCage.core.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/obj/Debug/netcoreapp2.1/WebShopCage.Infrastruture.Data.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/obj/Debug/netcoreapp2.1/WebShopCage.Infrastruture.Data.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/obj/Debug/netcoreapp2.1/WebShopCage.Infrastruture.Data.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/obj/Debug/netcoreapp2.1/WebShopCage.Infrastruture.Data.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/obj/Debug/netcoreapp2.1/WebShopCage.Infrastruture.Data.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/obj/Debug/netcoreapp2.1/WebShopCage.Infrastruture.Data.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/obj/Debug/netcoreapp2.1/WebShopCage.Infrastruture.Data.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/obj/Debug/netcoreapp2.1/WebShopCage.Infrastruture.Data.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/obj/Debug/netcoreapp2.1/WebShopCage.Infrastruture.Data.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/obj/Debug/netcoreapp2.1/WebShopCage.Infrastruture.Data.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/obj/Debug/netcoreapp2.1/WebShopCage.Infrastruture.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/obj/Debug/netcoreapp2.1/WebShopCage.Infrastruture.Data.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/obj/Debug/netcoreapp2.1/WebShopCage.Infrastruture.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/obj/Debug/netcoreapp2.1/WebShopCage.Infrastruture.Data.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/obj/WebShopCage.Infrastruture.Data.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/obj/WebShopCage.Infrastruture.Data.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/obj/WebShopCage.Infrastruture.Data.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/obj/WebShopCage.Infrastruture.Data.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/obj/WebShopCage.Infrastruture.Data.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/obj/WebShopCage.Infrastruture.Data.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core.entity/bin/Debug/netcoreapp2.1/WebShopCage.core.entity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core.entity/bin/Debug/netcoreapp2.1/WebShopCage.core.entity.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core.entity/bin/Debug/netcoreapp2.1/WebShopCage.core.entity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core.entity/bin/Debug/netcoreapp2.1/WebShopCage.core.entity.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core.entity/obj/Debug/netcoreapp2.1/WebShopCage.core.entity.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core.entity/obj/Debug/netcoreapp2.1/WebShopCage.core.entity.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core.entity/obj/Debug/netcoreapp2.1/WebShopCage.core.entity.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core.entity/obj/Debug/netcoreapp2.1/WebShopCage.core.entity.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core.entity/obj/Debug/netcoreapp2.1/WebShopCage.core.entity.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core.entity/obj/Debug/netcoreapp2.1/WebShopCage.core.entity.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core.entity/obj/Debug/netcoreapp2.1/WebShopCage.core.entity.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core.entity/obj/Debug/netcoreapp2.1/WebShopCage.core.entity.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShopCage.core.entity/obj/Debug/netcoreapp2.1/WebShopCage.core.entity.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core.entity/obj/Debug/netcoreapp2.1/WebShopCage.core.entity.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core.entity/obj/Debug/netcoreapp2.1/WebShopCage.core.entity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core.entity/obj/Debug/netcoreapp2.1/WebShopCage.core.entity.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core.entity/obj/Debug/netcoreapp2.1/WebShopCage.core.entity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core.entity/obj/Debug/netcoreapp2.1/WebShopCage.core.entity.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core.entity/obj/WebShopCage.core.entity.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core.entity/obj/WebShopCage.core.entity.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core.entity/obj/WebShopCage.core.entity.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core.entity/obj/WebShopCage.core.entity.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core.entity/obj/WebShopCage.core.entity.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core.entity/obj/WebShopCage.core.entity.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core.entity/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core.entity/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core/bin/Debug/netcoreapp2.1/WebShopCage.core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core/bin/Debug/netcoreapp2.1/WebShopCage.core.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core/bin/Debug/netcoreapp2.1/WebShopCage.core.entity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core/bin/Debug/netcoreapp2.1/WebShopCage.core.entity.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core/bin/Debug/netcoreapp2.1/WebShopCage.core.entity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core/bin/Debug/netcoreapp2.1/WebShopCage.core.entity.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core/bin/Debug/netcoreapp2.1/WebShopCage.core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core/bin/Debug/netcoreapp2.1/WebShopCage.core.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core/obj/Debug/netcoreapp2.1/WebShopCage.core.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core/obj/Debug/netcoreapp2.1/WebShopCage.core.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core/obj/Debug/netcoreapp2.1/WebShopCage.core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core/obj/Debug/netcoreapp2.1/WebShopCage.core.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core/obj/Debug/netcoreapp2.1/WebShopCage.core.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core/obj/Debug/netcoreapp2.1/WebShopCage.core.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core/obj/Debug/netcoreapp2.1/WebShopCage.core.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core/obj/Debug/netcoreapp2.1/WebShopCage.core.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebShopCage.core/obj/Debug/netcoreapp2.1/WebShopCage.core.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core/obj/Debug/netcoreapp2.1/WebShopCage.core.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core/obj/Debug/netcoreapp2.1/WebShopCage.core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core/obj/Debug/netcoreapp2.1/WebShopCage.core.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core/obj/Debug/netcoreapp2.1/WebShopCage.core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core/obj/Debug/netcoreapp2.1/WebShopCage.core.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core/obj/WebShopCage.core.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core/obj/WebShopCage.core.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core/obj/WebShopCage.core.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core/obj/WebShopCage.core.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core/obj/WebShopCage.core.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core/obj/WebShopCage.core.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopCage.core/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopCage.core/obj/project.assets.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,24 +50,24 @@
     <session id="-945912246">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="2" />
-          <entry key="json" value="1" />
+          <entry key="cs" value="70" />
+          <entry key="json" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="2" />
-          <entry key="JSON" value="1" />
+          <entry key="C#" value="70" />
+          <entry key="JSON" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="8" />
+          <entry key="cs" value="256" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="8" />
+          <entry key="C#" value="256" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project" />
@@ -112,72 +78,28 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebShopCage.core/Aplications.Services/Services/ProductService.cs">
+        <entry file="file://$PROJECT_DIR$/WebShopCage.core.entity/Orders.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="105">
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
               <folding>
-                <marker date="1539107656237" expanded="true" signature="6:156" ph="..." />
-                <marker date="1539107656237" expanded="true" signature="214:2268" ph="{...}" />
-                <marker date="1539107656237" expanded="true" signature="266:2266" ph="{...}" />
-                <marker date="1539107656237" expanded="true" signature="459:567" ph="{...}" />
-                <marker date="1539107656237" expanded="true" signature="622:724" ph="{...}" />
-                <marker date="1539107656237" expanded="true" signature="771:835" ph="{...}" />
-                <marker date="1539107656237" expanded="true" signature="884:950" ph="{...}" />
-                <marker date="1539107656237" expanded="true" signature="1005:1310" ph="{...}" />
-                <marker date="1539107656237" expanded="true" signature="1358:1430" ph="{...}" />
-                <marker date="1539107656237" expanded="true" signature="1546:1834" ph="{...}" />
-                <marker date="1539107656237" expanded="true" signature="1607:1797" ph="{...}" />
-                <marker date="1539107656237" expanded="true" signature="1898:2260" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WebShop/Startup.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
-              <caret line="58" column="16" lean-forward="true" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
-              <folding>
-                <marker date="1539107863547" expanded="true" signature="6:682" ph="..." />
-                <marker date="1539107863547" expanded="true" signature="701:2261" ph="{...}" />
-                <marker date="1539107863547" expanded="true" signature="728:2259" ph="{...}" />
-                <marker date="1539107863547" expanded="true" signature="788:851" ph="{...}" />
-                <marker date="1539107863547" expanded="true" signature="1074:1789" ph="{...}" />
-                <marker date="1539107863547" expanded="true" signature="1575:1687" ph="{...}" />
-                <marker date="1539107863547" expanded="true" signature="1977:2253" ph="{...}" />
-                <marker date="1539107863547" expanded="true" signature="2024:2101" ph="{...}" />
-                <marker date="1539107863547" expanded="true" signature="2118:2177" ph="{...}" />
+                <marker date="1539107656217" expanded="false" signature="6:66" ph="..." />
+                <marker date="1539107656217" expanded="true" signature="101:330" ph="{...}" />
+                <marker date="1539107656217" expanded="true" signature="127:328" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebShop/Program.cs">
+        <entry file="file://$PROJECT_DIR$/WebShopCage.core/Aplications.Services/IProductService.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="360">
+              <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
               <folding>
-                <marker date="1539107977110" expanded="false" signature="6:341" ph="..." />
-                <marker date="1539107977110" expanded="true" signature="360:940" ph="{...}" />
-                <marker date="1539107977110" expanded="true" signature="387:938" ph="{...}" />
-                <marker date="1539107977110" expanded="true" signature="440:767" ph="{...}" />
-                <marker date="1539107977110" expanded="true" signature="580:715" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebShopCage.core.entity/Filter.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <marker date="1539107656216" expanded="false" signature="6:66" ph="..." />
-                <marker date="1539107656216" expanded="true" signature="101:232" ph="{...}" />
-                <marker date="1539107656216" expanded="true" signature="127:230" ph="{...}" />
+                <marker date="1539107656234" expanded="true" signature="6:97" ph="..." />
+                <marker date="1539107656234" expanded="true" signature="146:762" ph="{...}" />
+                <marker date="1539107656234" expanded="true" signature="185:760" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -188,7 +110,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
-                <marker date="1539107656239" expanded="false" signature="6:97" ph="..." />
+                <marker date="1539107656239" expanded="true" signature="6:97" ph="..." />
                 <marker date="1539107656239" expanded="true" signature="141:526" ph="{...}" />
                 <marker date="1539107656239" expanded="true" signature="177:524" ph="{...}" />
                 <marker date="1539107656239" expanded="true" signature="192:251" ph="/* Create Data ... */" />
@@ -198,24 +120,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebShopCage.core/Domain.Services/IOrderRepo.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <marker date="1539107656238" expanded="false" signature="6:97" ph="..." />
-                <marker date="1539107656238" expanded="true" signature="141:439" ph="{...}" />
-                <marker date="1539107656238" expanded="true" signature="175:437" ph="{...}" />
-                <marker date="1539107656238" expanded="true" signature="190:249" ph="/* Create Data ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebShopCage.Infrastruture.Data/Repo/ProductRepo.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+            <state relative-caret-position="52">
+              <caret line="28" column="50" lean-forward="true" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
               <folding>
                 <marker date="1539107656206" expanded="false" signature="6:156" ph="..." />
                 <marker date="1539107656206" expanded="true" signature="203:1836" ph="{...}" />
@@ -233,44 +141,125 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebShop/Controllers/ValuesController.cs">
+        <entry file="file://$PROJECT_DIR$/WebShopCage.core.entity/Products.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
-                <marker date="1539107656175" expanded="false" signature="6:128" ph="..." />
-                <marker date="1539107656175" expanded="true" signature="159:969" ph="{...}" />
-                <marker date="1539107656175" expanded="true" signature="264:967" ph="{...}" />
-                <marker date="1539107656175" expanded="true" signature="369:445" ph="{...}" />
-                <marker date="1539107656175" expanded="true" signature="548:596" ph="{...}" />
-                <marker date="1539107656175" expanded="true" signature="693:713" ph="{...}" />
-                <marker date="1539107656175" expanded="true" signature="825:845" ph="{...}" />
-                <marker date="1539107656175" expanded="true" signature="941:961" ph="{...}" />
+                <marker date="1539107656217" expanded="true" signature="6:66" ph="..." />
+                <marker date="1539107656217" expanded="true" signature="101:374" ph="{...}" />
+                <marker date="1539107656217" expanded="true" signature="129:372" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebShopCage.Infrastruture.Data/Repo/OrderRepo.cs">
+        <entry file="file://$PROJECT_DIR$/WebShopCage.Infrastruture.Data/Seed.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+            <state relative-caret-position="345">
+              <caret line="27" column="42" lean-forward="true" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
               <folding>
-                <marker date="1539107656205" expanded="true" signature="6:156" ph="..." />
-                <marker date="1539107656205" expanded="true" signature="203:1290" ph="{...}" />
-                <marker date="1539107656205" expanded="true" signature="245:1288" ph="{...}" />
-                <marker date="1539107656205" expanded="true" signature="333:377" ph="{...}" />
-                <marker date="1539107656205" expanded="true" signature="421:572" ph="{...}" />
-                <marker date="1539107656205" expanded="true" signature="610:797" ph="{...}" />
-                <marker date="1539107656205" expanded="true" signature="843:894" ph="{...}" />
-                <marker date="1539107656205" expanded="true" signature="934:1282" ph="{...}" />
-                <marker date="1539107656205" expanded="true" signature="1033:1221" ph="{...}" />
+                <marker date="1539174963597" expanded="false" signature="6:116" ph="..." />
+                <marker date="1539174963597" expanded="true" signature="158:853" ph="{...}" />
+                <marker date="1539174963597" expanded="true" signature="182:851" ph="{...}" />
+                <marker date="1539174963597" expanded="true" signature="237:845" ph="{...}" />
+                <marker date="1539174963597" expanded="true" signature="326:602" ph="{...}" />
+                <marker date="1539174963597" expanded="true" signature="405:586" ph="{...}" />
+                <marker date="1539174963597" expanded="true" signature="637:835" ph="{...}" />
+                <marker date="1539174963597" expanded="true" signature="711:819" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebShop/Controllers/ProductController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="69" column="22" lean-forward="true" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+              <folding>
+                <marker date="1539156194531" expanded="false" signature="6:141" ph="..." />
+                <marker date="1539156194531" expanded="true" signature="172:2480" ph="{...}" />
+                <marker date="1539156194531" expanded="true" signature="278:2478" ph="{...}" />
+                <marker date="1539156194531" expanded="true" signature="417:483" ph="{...}" />
+                <marker date="1539156194531" expanded="true" signature="608:681" ph="{...}" />
+                <marker date="1539156194531" expanded="true" signature="803:1023" ph="{...}" />
+                <marker date="1539156194531" expanded="true" signature="1164:1667" ph="{...}" />
+                <marker date="1539156194531" expanded="true" signature="1234:1348" ph="{...}" />
+                <marker date="1539156194531" expanded="true" signature="1409:1523" ph="{...}" />
+                <marker date="1539156194531" expanded="true" signature="1823:2064" ph="{...}" />
+                <marker date="1539156194531" expanded="true" signature="1878:1989" ph="{...}" />
+                <marker date="1539156194531" expanded="true" signature="2189:2472" ph="{...}" />
+                <marker date="1539156194531" expanded="true" signature="2295:2401" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebShop/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+              <folding>
+                <marker date="1539168744904" expanded="false" signature="6:682" ph="..." />
+                <marker date="1539168744904" expanded="true" signature="701:2308" ph="{...}" />
+                <marker date="1539168744904" expanded="true" signature="728:2306" ph="{...}" />
+                <marker date="1539168744904" expanded="true" signature="788:851" ph="{...}" />
+                <marker date="1539168744904" expanded="true" signature="1074:1802" ph="{...}" />
+                <marker date="1539168744904" expanded="true" signature="1588:1700" ph="{...}" />
+                <marker date="1539168744904" expanded="true" signature="1990:2300" ph="{...}" />
+                <marker date="1539168744904" expanded="true" signature="2037:2148" ph="{...}" />
+                <marker date="1539168744904" expanded="true" signature="2165:2224" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebShopCage.core/Aplications.Services/Services/ProductService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="32" column="43" lean-forward="true" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+              <folding>
+                <marker date="1539107656237" expanded="false" signature="6:156" ph="..." />
+                <marker date="1539107656237" expanded="true" signature="214:2268" ph="{...}" />
+                <marker date="1539107656237" expanded="true" signature="266:2266" ph="{...}" />
+                <marker date="1539107656237" expanded="true" signature="459:567" ph="{...}" />
+                <marker date="1539107656237" expanded="true" signature="622:724" ph="{...}" />
+                <marker date="1539107656237" expanded="true" signature="771:835" ph="{...}" />
+                <marker date="1539107656237" expanded="true" signature="884:950" ph="{...}" />
+                <marker date="1539107656237" expanded="true" signature="1005:1310" ph="{...}" />
+                <marker date="1539107656237" expanded="true" signature="1358:1430" ph="{...}" />
+                <marker date="1539107656237" expanded="true" signature="1546:1834" ph="{...}" />
+                <marker date="1539107656237" expanded="true" signature="1607:1797" ph="{...}" />
+                <marker date="1539107656237" expanded="true" signature="1898:2260" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebShopCage.Infrastruture.Data/DBContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <marker date="1539107656204" expanded="false" signature="6:134" ph="..." />
+                <marker date="1539107656204" expanded="true" signature="176:587" ph="{...}" />
+                <marker date="1539107656204" expanded="true" signature="217:585" ph="{...}" />
+                <marker date="1539107656204" expanded="true" signature="386:474" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cont</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -281,19 +270,28 @@
     <setting file="mock:///C# Console" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebShopCage.core/Domain.Services/IOrderRepo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebShopCage.core/Domain.Services/IProductRepo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebShopCage.core/Aplications.Services/IProductService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebShopCage.core/Aplications.Services/IOrderService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebShopCage.core/Aplications.Services/Services/ProductService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebShop/Controllers/OrderController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebShopCage.core/Aplications.Services/Services/OrderService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebShop/Controllers/ProductController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebShopCage.core.entity/Orders.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebShopCage.core.entity/Products.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebShopCage.core.entity/Filter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebShopCage.Infrastruture.Data/Repo/ProductRepo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebShopCage.Infrastruture.Data/Repo/OrderRepo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebShop/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebShopCage.Infrastruture.Data/Seed.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A5C5BD00-5272-4318-ADE3-2638B1C5496F/70/e1240501/OptionsFactory`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebShop/Startup.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/WebShop/Controllers/OrderController.cs" />
+        <option value="$PROJECT_DIR$/WebShop/Controllers/ProductController.cs" />
+        <option value="$PROJECT_DIR$/WebShopCage.Infrastruture.Data/Seed.cs" />
+        <option value="$PROJECT_DIR$/WebShop/Startup.cs" />
         <option value="$PROJECT_DIR$/WebShop/Program.cs" />
       </list>
     </option>
@@ -305,8 +303,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="36" />
-    <option name="y" value="84" />
+    <option name="x" value="85" />
+    <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="814" />
   </component>
@@ -365,6 +363,13 @@
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="WebShopCage" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Core" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WebShopCage.core.entity" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="WebShopCage" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
@@ -413,6 +418,11 @@
       <pane id="FileSystemExplorer" />
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -425,21 +435,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.UI\WebShop">
+  <component name="RunManager" selected=".NET Project.Default">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/WebShop/bin/Debug/netcoreapp2.1/WebShop.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebShop" />
       <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="https://localhost:5001;http://localhost:5000" />
+      </envs>
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WebShop/WebShop.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="None" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser start="true" url="https://localhost:5001" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -482,12 +497,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539104114613</updated>
-      <workItem from="1539104115768" duration="3656000" />
+      <workItem from="1539104115768" duration="18639000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1020000" />
+    <option name="totallyTimeSpent" value="16003000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -499,25 +514,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="36" y="84" width="1400" height="814" extended-state="0" />
+    <frame x="85" y="23" width="1400" height="814" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" weight="0.32963988" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Unit Tests" weight="0.32963988" />
       <window_info anchor="bottom" id="REST Client" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50073636" side_tool="true" weight="0.32963988" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32963988" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50073636" side_tool="true" weight="0.39889196" />
       <window_info anchor="bottom" id="Build" weight="0.32963988" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992636" weight="0.32963988" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4992636" weight="0.39889196" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -537,11 +552,81 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WebShop/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebShop/Controllers/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A5C5BD00-5272-4318-ADE3-2638B1C5496F/70/e1240501/OptionsFactory`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="56" column="64" selection-start-line="56" selection-start-column="64" selection-end-line="56" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebShop/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebShop/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding>
+            <marker date="1539179905869" expanded="false" signature="6:341" ph="..." />
+            <marker date="1539179905869" expanded="true" signature="360:952" ph="{...}" />
+            <marker date="1539179905869" expanded="true" signature="387:950" ph="{...}" />
+            <marker date="1539179905869" expanded="true" signature="440:779" ph="{...}" />
+            <marker date="1539179905869" expanded="true" signature="580:715" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebShop/Controllers/OrderController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+          <folding>
+            <marker date="1539155437167" expanded="false" signature="6:155" ph="..." />
+            <marker date="1539155437167" expanded="true" signature="186:1849" ph="{...}" />
+            <marker date="1539155437167" expanded="true" signature="295:1847" ph="{...}" />
+            <marker date="1539155437167" expanded="true" signature="415:477" ph="{...}" />
+            <marker date="1539155437167" expanded="true" signature="597:670" ph="{...}" />
+            <marker date="1539155437167" expanded="true" signature="795:925" ph="{...}" />
+            <marker date="1539155437167" expanded="true" signature="1056:1300" ph="{...}" />
+            <marker date="1539155437167" expanded="true" signature="1082:1171" ph="{...}" />
+            <marker date="1539155437167" expanded="true" signature="1203:1277" ph="{...}" />
+            <marker date="1539155437167" expanded="true" signature="1446:1643" ph="{...}" />
+            <marker date="1539155437167" expanded="true" signature="1498:1607" ph="{...}" />
+            <marker date="1539155437167" expanded="true" signature="1763:1841" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebShopCage.Infrastruture.Data/Repo/OrderRepo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+          <folding>
+            <marker date="1539107656205" expanded="false" signature="6:156" ph="..." />
+            <marker date="1539107656205" expanded="true" signature="203:1290" ph="{...}" />
+            <marker date="1539107656205" expanded="true" signature="245:1288" ph="{...}" />
+            <marker date="1539107656205" expanded="true" signature="333:377" ph="{...}" />
+            <marker date="1539107656205" expanded="true" signature="421:572" ph="{...}" />
+            <marker date="1539107656205" expanded="true" signature="610:797" ph="{...}" />
+            <marker date="1539107656205" expanded="true" signature="843:894" ph="{...}" />
+            <marker date="1539107656205" expanded="true" signature="934:1282" ph="{...}" />
+            <marker date="1539107656205" expanded="true" signature="1033:1221" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/WebShopCage.core/Aplications.Services/Services/OrderService.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-209">
+        <state relative-caret-position="412">
+          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
           <folding>
-            <marker date="1539107656234" expanded="true" signature="6:173" ph="..." />
+            <marker date="1539107656234" expanded="false" signature="6:173" ph="..." />
             <marker date="1539107656234" expanded="true" signature="231:1511" ph="{...}" />
             <marker date="1539107656234" expanded="true" signature="279:1509" ph="{...}" />
             <marker date="1539107656234" expanded="true" signature="464:566" ph="{...}" />
@@ -555,12 +640,111 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/WebShopCage.core/Aplications.Services/IOrderService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1539107656232" expanded="false" signature="6:97" ph="..." />
+            <marker date="1539107656232" expanded="true" signature="146:465" ph="{...}" />
+            <marker date="1539107656232" expanded="true" signature="183:463" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebShopCage.core/Domain.Services/IOrderRepo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1539107656238" expanded="false" signature="6:97" ph="..." />
+            <marker date="1539107656238" expanded="true" signature="141:439" ph="{...}" />
+            <marker date="1539107656238" expanded="true" signature="175:437" ph="{...}" />
+            <marker date="1539107656238" expanded="true" signature="190:249" ph="/* Create Data ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebShopCage.core.entity/Filter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1539107656216" expanded="false" signature="6:66" ph="..." />
+            <marker date="1539107656216" expanded="true" signature="101:232" ph="{...}" />
+            <marker date="1539107656216" expanded="true" signature="127:230" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebShopCage.core.entity/Orders.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <marker date="1539107656217" expanded="false" signature="6:66" ph="..." />
+            <marker date="1539107656217" expanded="true" signature="101:330" ph="{...}" />
+            <marker date="1539107656217" expanded="true" signature="127:328" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebShopCage.core.entity/Products.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1539107656217" expanded="true" signature="6:66" ph="..." />
+            <marker date="1539107656217" expanded="true" signature="101:374" ph="{...}" />
+            <marker date="1539107656217" expanded="true" signature="129:372" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebShopCage.Infrastruture.Data/DBContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <marker date="1539107656204" expanded="false" signature="6:134" ph="..." />
+            <marker date="1539107656204" expanded="true" signature="176:587" ph="{...}" />
+            <marker date="1539107656204" expanded="true" signature="217:585" ph="{...}" />
+            <marker date="1539107656204" expanded="true" signature="386:474" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebShopCage.Infrastruture.Data/Seed.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="27" column="42" lean-forward="true" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+          <folding>
+            <marker date="1539174963597" expanded="false" signature="6:116" ph="..." />
+            <marker date="1539174963597" expanded="true" signature="158:853" ph="{...}" />
+            <marker date="1539174963597" expanded="true" signature="182:851" ph="{...}" />
+            <marker date="1539174963597" expanded="true" signature="237:845" ph="{...}" />
+            <marker date="1539174963597" expanded="true" signature="326:602" ph="{...}" />
+            <marker date="1539174963597" expanded="true" signature="405:586" ph="{...}" />
+            <marker date="1539174963597" expanded="true" signature="637:835" ph="{...}" />
+            <marker date="1539174963597" expanded="true" signature="711:819" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebShopCage.core/Aplications.Services/IProductService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+          <folding>
+            <marker date="1539107656234" expanded="true" signature="6:97" ph="..." />
+            <marker date="1539107656234" expanded="true" signature="146:762" ph="{...}" />
+            <marker date="1539107656234" expanded="true" signature="185:760" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/WebShopCage.core/Aplications.Services/Services/ProductService.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="216">
+          <caret line="32" column="43" lean-forward="true" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
           <folding>
-            <marker date="1539107656237" expanded="true" signature="6:156" ph="..." />
+            <marker date="1539107656237" expanded="false" signature="6:156" ph="..." />
             <marker date="1539107656237" expanded="true" signature="214:2268" ph="{...}" />
             <marker date="1539107656237" expanded="true" signature="266:2266" ph="{...}" />
             <marker date="1539107656237" expanded="true" signature="459:567" ph="{...}" />
@@ -576,59 +760,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebShopCage.core.entity/Orders.cs">
+    <entry file="file://$PROJECT_DIR$/WebShopCage.core/Domain.Services/IProductRepo.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1539107656217" expanded="false" signature="6:66" ph="..." />
-            <marker date="1539107656217" expanded="true" signature="101:330" ph="{...}" />
-            <marker date="1539107656217" expanded="true" signature="127:328" ph="{...}" />
+            <marker date="1539107656239" expanded="true" signature="6:97" ph="..." />
+            <marker date="1539107656239" expanded="true" signature="141:526" ph="{...}" />
+            <marker date="1539107656239" expanded="true" signature="177:524" ph="{...}" />
+            <marker date="1539107656239" expanded="true" signature="192:251" ph="/* Create Data ... */" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebShopCage.core.entity/Products.cs">
+    <entry file="file://$PROJECT_DIR$/WebShop/Controllers/ProductController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="990">
+          <caret line="69" column="22" lean-forward="true" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
           <folding>
-            <marker date="1539107656217" expanded="false" signature="6:66" ph="..." />
-            <marker date="1539107656217" expanded="true" signature="101:374" ph="{...}" />
-            <marker date="1539107656217" expanded="true" signature="129:372" ph="{...}" />
+            <marker date="1539156194531" expanded="false" signature="6:141" ph="..." />
+            <marker date="1539156194531" expanded="true" signature="172:2480" ph="{...}" />
+            <marker date="1539156194531" expanded="true" signature="278:2478" ph="{...}" />
+            <marker date="1539156194531" expanded="true" signature="417:483" ph="{...}" />
+            <marker date="1539156194531" expanded="true" signature="608:681" ph="{...}" />
+            <marker date="1539156194531" expanded="true" signature="803:1023" ph="{...}" />
+            <marker date="1539156194531" expanded="true" signature="1164:1667" ph="{...}" />
+            <marker date="1539156194531" expanded="true" signature="1234:1348" ph="{...}" />
+            <marker date="1539156194531" expanded="true" signature="1409:1523" ph="{...}" />
+            <marker date="1539156194531" expanded="true" signature="1823:2064" ph="{...}" />
+            <marker date="1539156194531" expanded="true" signature="1878:1989" ph="{...}" />
+            <marker date="1539156194531" expanded="true" signature="2189:2472" ph="{...}" />
+            <marker date="1539156194531" expanded="true" signature="2295:2401" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebShop/Properties/launchSettings.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebShop/Program.cs">
+    <entry file="file://$PROJECT_DIR$/WebShopCage.Infrastruture.Data/Repo/ProductRepo.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="52">
+          <caret line="28" column="50" lean-forward="true" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
           <folding>
-            <marker date="1539107977110" expanded="false" signature="6:341" ph="..." />
-            <marker date="1539107977110" expanded="true" signature="360:940" ph="{...}" />
-            <marker date="1539107977110" expanded="true" signature="387:938" ph="{...}" />
-            <marker date="1539107977110" expanded="true" signature="440:767" ph="{...}" />
-            <marker date="1539107977110" expanded="true" signature="580:715" ph="{...}" />
+            <marker date="1539107656206" expanded="false" signature="6:156" ph="..." />
+            <marker date="1539107656206" expanded="true" signature="203:1836" ph="{...}" />
+            <marker date="1539107656206" expanded="true" signature="249:1834" ph="{...}" />
+            <marker date="1539107656206" expanded="true" signature="339:383" ph="{...}" />
+            <marker date="1539107656206" expanded="true" signature="434:582" ph="{...}" />
+            <marker date="1539107656206" expanded="true" signature="622:820" ph="{...}" />
+            <marker date="1539107656206" expanded="true" signature="868:922" ph="{...}" />
+            <marker date="1539107656206" expanded="true" signature="964:1327" ph="{...}" />
+            <marker date="1539107656206" expanded="true" signature="1068:1266" ph="{...}" />
+            <marker date="1539107656206" expanded="true" signature="1384:1828" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebShop/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="58" column="16" lean-forward="true" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
+        <state relative-caret-position="427">
+          <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
           <folding>
-            <marker date="1539107863547" expanded="true" signature="6:682" ph="..." />
-            <marker date="1539107863547" expanded="true" signature="701:2261" ph="{...}" />
-            <marker date="1539107863547" expanded="true" signature="728:2259" ph="{...}" />
-            <marker date="1539107863547" expanded="true" signature="788:851" ph="{...}" />
-            <marker date="1539107863547" expanded="true" signature="1074:1789" ph="{...}" />
-            <marker date="1539107863547" expanded="true" signature="1575:1687" ph="{...}" />
-            <marker date="1539107863547" expanded="true" signature="1977:2253" ph="{...}" />
-            <marker date="1539107863547" expanded="true" signature="2024:2101" ph="{...}" />
-            <marker date="1539107863547" expanded="true" signature="2118:2177" ph="{...}" />
+            <marker date="1539168744904" expanded="false" signature="6:682" ph="..." />
+            <marker date="1539168744904" expanded="true" signature="701:2308" ph="{...}" />
+            <marker date="1539168744904" expanded="true" signature="728:2306" ph="{...}" />
+            <marker date="1539168744904" expanded="true" signature="788:851" ph="{...}" />
+            <marker date="1539168744904" expanded="true" signature="1074:1802" ph="{...}" />
+            <marker date="1539168744904" expanded="true" signature="1588:1700" ph="{...}" />
+            <marker date="1539168744904" expanded="true" signature="1990:2300" ph="{...}" />
+            <marker date="1539168744904" expanded="true" signature="2037:2148" ph="{...}" />
+            <marker date="1539168744904" expanded="true" signature="2165:2224" ph="{...}" />
           </folding>
         </state>
       </provider>
